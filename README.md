@@ -1,21 +1,343 @@
-# 💫 About Me:
-### About Me<br><br>🔭 **I’m currently working on**<br>Building AI-powered applications and developer tools, including LLM/RAG systems, agentic workflows, and full-stack platforms using Java, Spring Boot, Python, React, and cloud technologies.<br><br>👯 **I’m looking to collaborate on**<br>Open-source projects involving **Generative AI, LLM applications, backend systems, distributed systems, microservices, and developer productivity tools**.<br><br>🤝 **I’m looking for help with**<br>Exploring advanced **AI engineering, LLM evaluation, agentic AI, scalable system architecture, and production-ready AI applications**.<br><br>🌱 **I’m currently learning**<br>**Agentic AI, RAG, LangGraph, MCP, LLM evaluation, prompt engineering, cloud-native architecture, Kubernetes, and advanced system design.**<br><br>💬 **Ask me about**<br>**Java, Spring Boot, Microservices, REST APIs, React, Angular, AWS, Azure, Docker, Kubernetes, CI/CD, Generative AI, RAG, LLMs, and building scalable full-stack applications.**<br><br>⚡ **Fun fact**<br>I enjoy turning real-world problems into **full-stack projects and AI-powered solutions** — and I’m always experimenting with a new technology or building something for my GitHub.<br>
+<div align="center">
 
+# 👋 Hi, I'm Priyansh Suthar
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshx) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanshxsuthar@gmail.com) 
+### Full-Stack Java Engineer · AI Engineer · Cloud & Distributed Systems
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Dgraph](https://img.shields.io/badge/dgraph-%23E50695.svg?style=for-the-badge&logo=dgraph&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr) ![Scaleway](https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=for-the-badge&logo=scaleway&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Quarkus](https://img.shields.io/badge/quarkus-%234794EB.svg?style=for-the-badge&logo=quarkus&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Priyansh-6216&theme=date_night&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Priyansh-6216&theme=date_night&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Priyansh-6216&theme=date_night&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+**Building production-ready applications with Java, Spring Boot, Python, React, Cloud, and Generative AI.**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Priyansh-6216&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p>
+  <a href="https://linkedin.com/in/priyanshx">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:priyanshxsuthar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Priyansh-6216">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://priyansh-6216.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Priyansh-6216&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+I'm a **Full-Stack Java Engineer with 4+ years of experience** building scalable backend systems, cloud-native applications, and AI-powered developer tools.
+
+My engineering interests sit at the intersection of:
+
+```text
+Backend Engineering
+        +
+Distributed Systems
+        +
+Cloud Architecture
+        +
+Generative AI
+        +
+Developer Productivity
+```
+
+Currently, I'm focused on building applications that combine **traditional software engineering with modern AI systems** — including RAG pipelines, LLM applications, agentic workflows, evaluation systems, and intelligent developer tools.
+
+### 🔭 Currently Building
+
+* 🤖 LLM-powered applications and AI developer tools
+* 🧠 RAG systems using LangChain, LlamaIndex & vector databases
+* 🔗 Agentic workflows using LangGraph & MCP
+* ⚙️ Production microservices with Java & Spring Boot
+* ☁️ Cloud-native applications across AWS, Azure & GCP
+* 🧪 LLM evaluation and observability pipelines
+* 🚀 Full-stack applications with React, Next.js & TypeScript
+
+### 🌱 Currently Exploring
+
+**Agentic AI · RAG · LLM Evaluation · MCP · LangGraph · Prompt Engineering · Kubernetes · Distributed Systems · System Design**
+
+### 💬 Ask Me About
+
+**Java · Spring Boot · Microservices · REST APIs · React · Angular · Python · AWS · Azure · Docker · Kubernetes · Kafka · PostgreSQL · Generative AI · RAG · LLMs**
+
+---
+
+# 🧠 Engineering Focus
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Backend Engineering
+
+* Java & Spring Boot
+* REST APIs & Microservices
+* Event-driven architecture
+* Apache Kafka
+* Distributed systems
+* Database design
+* API security & OAuth
+* Testing & CI/CD
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Engineering
+
+* LLM Applications
+* Retrieval-Augmented Generation
+* LangChain
+* LlamaIndex
+* LangGraph
+* MCP
+* Prompt Engineering
+* LLM Evaluation
+* Vector Search
+* AI Agents
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Cloud & DevOps
+
+* AWS
+* Azure
+* GCP
+* Docker
+* Kubernetes
+* Terraform
+* Jenkins
+* GitHub Actions
+* Cloud-native architecture
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Full Stack
+
+* React
+* Next.js
+* Angular
+* TypeScript
+* JavaScript
+* Python
+* FastAPI
+* Tailwind CSS
+* PostgreSQL
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square\&logo=scala\&logoColor=white)
+
+### Backend & Frameworks
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square\&logo=spring\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square\&logo=hibernate\&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square\&logo=apachekafka\&logoColor=white)
+
+### AI / Machine Learning
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square\&logo=openai\&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square\&logo=anthropic\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square\&logo=langchain\&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B46C1?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square\&logo=angular\&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square\&logo=redux\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square\&logo=microsoftazure\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square\&logo=googlecloud\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square\&logo=kubernetes\&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square\&logo=terraform\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square\&logo=jenkins\&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square\&logo=amazondynamodb\&logoColor=white)
+![IBM DB2](https://img.shields.io/badge/IBM_DB2-052FAD?style=flat-square\&logo=ibm\&logoColor=white)
+
+---
+
+# ⭐ Featured Projects
+
+> A selection of projects where I experiment with AI, backend architecture, cloud engineering, and developer tooling.
+
+### 🤖 AI & Developer Tools
+
+| Project                   | Description                                                                                                          | Stack                               |
+| ------------------------- | -------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| **ResumeOps AI**          | AI-powered resume tailoring platform designed to adapt resumes to job descriptions while preserving LaTeX formatting | Next.js · FastAPI · LLMs · PGVector |
+| **RepoMind AI**           | Intelligent developer tool for understanding and querying codebases using LLMs                                       | Python · LLM · RAG                  |
+| **AI Evaluation Toolkit** | Benchmarking and evaluation framework for LLM-powered applications                                                   | Python · RAG · LLM Evaluation       |
+| **LLMRouter**             | Intelligent routing layer for working with multiple LLM providers                                                    | Python · APIs · LLMs                |
+
+### 🏗️ Backend & Cloud
+
+| Project                                | Description                                                                | Stack                                   |
+| -------------------------------------- | -------------------------------------------------------------------------- | --------------------------------------- |
+| **FinGuard AI**                        | AI-enabled banking platform built around scalable microservices            | Java · Spring Boot · Kafka · PostgreSQL |
+| **Distributed Microservices Platform** | Distributed backend architecture focused on scalable service communication | Java · Spring Boot · Docker             |
+| **CloudMon**                           | Cloud monitoring and observability platform                                | Python · Cloud · APIs                   |
+| **SGProof Tracker**                    | Automated web workflow and tracking application using browser automation   | Python · Flask · Playwright             |
+
+### 📱 Full Stack / Applications
+
+| Project        | Description                                                                                                 | Stack                |
+| -------------- | ----------------------------------------------------------------------------------------------------------- | -------------------- |
+| **VitalLens**  | Mobile-focused application combining computer vision / AI capabilities with a modern application experience | Python · AI · Mobile |
+| **ClaimLens**  | Intelligent claims-processing and analysis platform                                                         | AI · Backend · APIs  |
+| **FlowRescue** | Workflow-oriented developer/application automation project                                                  | Python · APIs        |
+
+---
+
+# 🧩 How I Think About Software
+
+```text
+                    ┌───────────────────────┐
+                    │       AI Layer        │
+                    │  LLMs • RAG • Agents  │
+                    └───────────┬───────────┘
+                                │
+                    ┌───────────▼───────────┐
+                    │    Application Layer  │
+                    │ React • Next.js • API  │
+                    └───────────┬───────────┘
+                                │
+                    ┌───────────▼───────────┐
+                    │     Service Layer     │
+                    │ Spring Boot • FastAPI │
+                    │ Microservices • Kafka │
+                    └───────────┬───────────┘
+                                │
+                    ┌───────────▼───────────┐
+                    │       Data Layer      │
+                    │ PostgreSQL • Redis    │
+                    │ MongoDB • Vector DB   │
+                    └───────────┬───────────┘
+                                │
+                    ┌───────────▼───────────┐
+                    │    Cloud / Platform   │
+                    │ AWS • Azure • GCP      │
+                    │ Docker • Kubernetes    │
+                    └───────────────────────┘
+```
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=Priyansh-6216&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=false" height="165"/>
+
+<img src="https://streak-stats.demolab.com/?user=Priyansh-6216&theme=transparent&hide_border=true" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Priyansh-6216&theme=transparent&hide_border=true&layout=compact&langs_count=8" height="165"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Priyansh-6216&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" />
+
+</div>
+
+---
+
+# 📊 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyansh-6216&theme=github-compact&hide_border=true" />
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in:
+
+* 🤖 Generative AI & Agentic AI
+* 🏗️ Distributed systems & backend architecture
+* ☁️ Cloud-native engineering
+* 🔬 AI developer tools
+* 🌎 Open-source projects
+* 💡 Interesting engineering problems
+
+If you're building something interesting, **feel free to reach out.**
+
+<div align="center">
+
+### ⭐ If you find something useful here, consider giving the repository a star!
+
+<br>
+
+<a href="https://linkedin.com/in/priyanshx">
+<img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:priyanshxsuthar@gmail.com">
+<img src="https://img.shields.io/badge/Get%20in%20Touch-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Priyansh-6216&style=flat-square&color=blue" />
+
+**Building → Learning → Shipping → Repeating 🚀**
+
+</div>
